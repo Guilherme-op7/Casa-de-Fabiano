@@ -7,7 +7,7 @@ export default function Sidebar() {
       <div>
 
         <div className="flex items-center gap-2 mb-6 p-8">
-          <img src="public/assets/cf.png" alt=""/>
+          <img src="assets/cf.png" alt=""/>
         </div>
 
         <nav className="flex flex-col gap-3">
