@@ -1,6 +1,5 @@
-import Despesas from "./components/Despesas";
+import Despesas from "./pages/Despesas";
 import Sidebar from "./components/Sidebar";
-
 export default function App() {
   return (
     <div className="flex bg-[#2B3031] h-full">
